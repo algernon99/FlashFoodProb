@@ -6,6 +6,8 @@ https://doi.org/10.1371/journal.pone.0113636
 It is written in Java. To run the code you will need a Java Runtime Environment
 (JRE). To compile the code, you will need the full Java Development Kit (JDK).
 
+Java downloads: https://www.oracle.com/java/technologies/javase-downloads.html
+
 It has been tested with Java SE 15; it will likely work with versions dating
 back to 2013.
 
